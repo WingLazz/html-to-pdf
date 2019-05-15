@@ -1,0 +1,26 @@
+{
+  "name": "html-to-pdf",
+  "version": "1.0.0",
+  "description": "simple html to pdf based on puppeteer",
+  "keywords": [
+    "node",
+    "html",
+    "pdf",
+    "puppeteer"
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "htmlToPdf": "bin/htmlToPdf.js"
+  },
+  "author": "scuthongying@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "puppeteer": "^1.16.0"
+  },
+  "engines": {
+    "node": ">=8.9"
+  }
+}
