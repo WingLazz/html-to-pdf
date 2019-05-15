@@ -6,14 +6,14 @@
 #### Install
 Install with npm
 ```javascript
-npm install --save html-to-pdf
+npm install --save html2pdf-simple
 ```
 
 #### Usage
 
 1. 文件引入
 ```javascript
-var htmlToPdf = require('html-to-pdf')
+var htmlToPdf = require('html2pdf-simple')
 
 // transform by local file
 htmlToPdf({ filePath: '/Users/../Downloads/test.html', outputPath: '/Users/../Downloads/test.pdf' })

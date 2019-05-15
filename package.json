@@ -1,5 +1,5 @@
 {
-  "name": "html-to-pdf",
+  "name": "html2pdf-simple",
   "version": "1.0.0",
   "description": "simple html to pdf based on puppeteer",
   "keywords": [
